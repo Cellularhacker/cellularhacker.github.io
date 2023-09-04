@@ -2,7 +2,7 @@
 title:               Cellularhacker
 tagline:             'An Engineer doing {"web developer", "blockchain developer", "network engineer", "system engineer", "devops"}'
 description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 https://github.com/Cellularhacker
+url:                 https://cellularhacker.github.io
 baseurl:             ''
 paginate:            10
 permalink:           pretty
@@ -10,7 +10,7 @@ permalink:           pretty
 # About/contact
 author:
   name:              Cellularhacker
-  url:               https://twitter.com/cellularhacker
+  url:               https://github.com/Cellularhacker
   email:             wva3cdae@gmail.com
 
 # Gems
