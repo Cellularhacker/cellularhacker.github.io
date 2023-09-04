@@ -59,7 +59,7 @@ title: 실시간으로 `하나의 Jupyter Notebook 을 여려명이서 공동으
 그리고, 잠시만 기다리면... 두근두근 두근!
 
 브라우저로 아래와 같은 탭이 열리게 됩니다!<br/>
-<img src="https://cellularhacker.github.io/images/jupyterlab_startup-001.png" width="450px"  title="Jupyter Lab" alt="Jupyter Lab"></img><br/>
+<img src="https://cellularhacker.github.io/public/images/jupyterlab_startup-001.png"  width="900px"  title="Jupyter Lab" alt="Jupyter Lab"></img><br/>
 
 
 감사합니다!
