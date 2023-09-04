@@ -113,11 +113,8 @@ title: 실시간으로 `하나의 Jupyter Notebook 을 여려명이서 공동으
 *****
 
 ### 4-2. `Jupyter Lab`에서 새로운 `.ipynb` 파일을 생성하고, 다른 브라우저에서 확인해보기
-![Jupyter Lab - RTC Demo](https://cellularhacker.github.io/public/images/jupyterlab-rtc_demo.mp4)
 
-[//]: # (<video width="900px" src="https://cellularhacker.github.io/public/images/jupyterlab-rtc_demo.mp4"></video>)
-
-![Jupyter Lab - RTC Demo2](https://cellularhacker.github.io/public/images/jupyterlab-rtc_demo.mov)
+[![Jupyter Lab - RTC Demo](https://cellularhacker.github.io/public/images/jupyterlab_rtc-001.png)](https://cellularhacker.github.io/public/images/jupyterlab-rtc_demo.mp4)
 
 *****
 
