@@ -61,5 +61,51 @@ title: 실시간으로 `하나의 Jupyter Notebook 을 여려명이서 공동으
 브라우저로 아래와 같은 탭이 열리게 됩니다!<br/>
 <img src="https://cellularhacker.github.io/public/images/jupyterlab_startup-001.png"  width="900px"  title="Jupyter Lab" alt="Jupyter Lab"></img><br/>
 
+## 3. `Jupyter Lab` ー `Real-Time collaboration` 플러그인 설치
+[Reference](https://jupyterlab-realtime-collaboration.readthedocs.io/en/latest/)
+
+이번에도 역시, 사용하시는 환경에 따라서 설치방법이 조금씩 다르지만 앞선 방법과 거의 다르지 않습니다.
+- **conda**
+  - `conda` 를 사용하시는 분들은 아래의 명령어로 터미널 창에서 입력하여 설치해주세요.
+       ```shell
+       conda install -c conda-forge jupyter-collaboration
+       ```
+- **mamba**
+  - `mamba` 를 사용하시는 분들은 아래의 명령어로 터미널 창에서 입력하여 설치해주세요.
+       ```shell
+       mamba install -c conda-forge jupyter-collaboration
+       ```
+
+- **pip**
+  - `pip` 를 사용하시는 분들은 아래의 명령어로 터미널 창에서 입력하여 설치해주세요.
+       ```shell
+       pip install jupyter-collaboration
+       ```
+  - macOS를 사용중인 환경이고, python2가 기본값인 경우에는 `pip` 대신에 `pip3` 로 대체하여 사용해 주세요.
+
+
+## 4. `Jupyter Lab` - `Real-Time collaboration` 플러그인의 정상 동작 실행 테스트
+
+### 4-1. `Jupyter Lab`을 실행하여 웹브라우저에서 확인하기
+
+자, 이제 실행을 해보겠습니다!
+- 터미널에서 기존에 실행했던 `Jupyter Lab`을 완전히 종류해주신 후에 다시 한번 아래의 명령어로 `Jupyter Lab`을 실행해 주세요.
+  ```shell
+  jupyter lab
+  ```
+
+<img src="https://cellularhacker.github.io/public/images/jupyterlab_rtc-001.png"  width="900px"  title="Jupyter Lab - RTC" alt="Jupyter Lab - RTC"></img><br/>
+어라, 아까와는 전혀 다른 내용을 볼 수 있습니다.
+
+네. 그렇습니다. **`RTC`** 라는 글자가 정면의 `Launcher` 탭의 화면에 있는 것을 확인 할 수 있습니다. <br/>
+바로, `Real-Time Collaboration`을 줄인 말이겠죠.
+
+### 4-2. `Jupyter Lab`에서 새로운 `.ipynb` 파일을 생성하고, 다른 브라우저에서 확인해보기
+![demo](https://cellularhacker.github.io/public/images/jupyterlab-rtc_demo.mp4)
+
+
+### 4-3. `Jupyter Lab`에서 `Real-Time Collaboration`을 사용한 결과보기
+<img src="https://cellularhacker.github.io/public/images/jupyterlab_rtc-002.png"  width="900px"  title="Jupyter Lab - RTC Result" alt="Jupyter Lab - RTC Result"></img><br/>
+
 
 감사합니다!
