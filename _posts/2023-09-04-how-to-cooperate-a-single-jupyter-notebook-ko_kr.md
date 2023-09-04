@@ -59,7 +59,7 @@ title: 실시간으로 `하나의 Jupyter Notebook 을 여려명이서 공동으
 그리고, 잠시만 기다리면... 두근두근 두근!
 
 브라우저로 아래와 같은 탭이 열리게 됩니다!<br/>
-<img src="https://cellularhacker.github.io/public/images/jupyterlab_startup-001.png"  width="900px"  title="Jupyter Lab" alt="Jupyter Lab"></img><br/>
+![Jupyter Lab](https://cellularhacker.github.io/public/images/jupyterlab_startup-001.png)
 
 ## 3. `Jupyter Lab` ー `Real-Time collaboration` 플러그인 설치
 [Reference](https://jupyterlab-realtime-collaboration.readthedocs.io/en/latest/)
@@ -90,22 +90,22 @@ title: 실시간으로 `하나의 Jupyter Notebook 을 여려명이서 공동으
 
 자, 이제 실행을 해보겠습니다!
 - 터미널에서 기존에 실행했던 `Jupyter Lab`을 완전히 종류해주신 후에 다시 한번 아래의 명령어로 `Jupyter Lab`을 실행해 주세요.
-  ```shell
-  jupyter lab
-  ```
+     ```shell
+     jupyter lab
+     ```
 
-<img src="https://cellularhacker.github.io/public/images/jupyterlab_rtc-001.png"  width="900px"  title="Jupyter Lab - RTC" alt="Jupyter Lab - RTC"></img><br/>
+![Jupyter Lab - RTC](https://cellularhacker.github.io/public/images/jupyterlab_rtc-001.png)
 어라, 아까와는 전혀 다른 내용을 볼 수 있습니다.
 
 네. 그렇습니다. **`RTC`** 라는 글자가 정면의 `Launcher` 탭의 화면에 있는 것을 확인 할 수 있습니다. <br/>
 바로, `Real-Time Collaboration`을 줄인 말이겠죠.
 
 ### 4-2. `Jupyter Lab`에서 새로운 `.ipynb` 파일을 생성하고, 다른 브라우저에서 확인해보기
-<video width="900px" src="https://cellularhacker.github.io/public/images/jupyterlab-rtc_demo.mp4"></video>
+![Jupyter Lab - RTC Demo](https://cellularhacker.github.io/public/images/jupyterlab-rtc_demo.mp4)
 
+[//]: # (<video width="900px" src="https://cellularhacker.github.io/public/images/jupyterlab-rtc_demo.mp4"></video>)
 
 ### 4-3. `Jupyter Lab`에서 `Real-Time Collaboration`을 사용한 결과보기
-<img src="https://cellularhacker.github.io/public/images/jupyterlab_rtc-002.png"  width="900px"  title="Jupyter Lab - RTC Result" alt="Jupyter Lab - RTC Result"></img><br/>
-
+![Jupyter Lab - RTC Result](https://cellularhacker.github.io/public/images/jupyterlab_rtc-002.png)
 
 감사합니다!
