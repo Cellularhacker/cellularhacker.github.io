@@ -1,17 +1,17 @@
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
+title:               Cellularhacker
+tagline:             'An Engineer doing {"web developer", "blockchain developer", "network engineer", "system engineer", "devops"}'
 description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 https://lanyon.getpoole.com
+url:                 https://github.com/Cellularhacker
 baseurl:             ''
-paginate:            5
+paginate:            10
 permalink:           pretty
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Cellularhacker
+  url:               https://twitter.com/cellularhacker
+  email:             wva3cdae@gmail.com
 
 # Gems
 plugins:
@@ -19,4 +19,4 @@ plugins:
 
 # Custom vars
 version:             1.1.0
-google_analytics_id: UA-146052-15
+#google_analytics_id: UA-146052-15
