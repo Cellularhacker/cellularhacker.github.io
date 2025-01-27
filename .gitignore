@@ -42,3 +42,6 @@ validation-report.json
 # Folders to ignore
 node_modules
 bower_components
+
+# Exclude temprary saving draft(s)
+/drafts/
